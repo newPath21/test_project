@@ -1,5 +1,5 @@
 Для запуска можно запустить с Docker
-docker build . - собираем
+<br>docker build . - собираем</br>
 docker-compose up -d - запуск
 
 Можно запустить создав окружение
